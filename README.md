@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Rentalo](https://rentaloinc.com/)
+- 👯 I’m looking to collaborate on [Extinguisher360]([https://rentaloinc.com/](https://extinguisher360.com/))
 
 - 🤝 I’m looking for help with [Security OmniSkill](https://security.omni-skill.com/)
 
