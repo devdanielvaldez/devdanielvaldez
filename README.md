@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ingdanielvaldez" target="blank"><img src="https://img.shields.io/twitter/follow/ingdanielvaldez?logo=twitter&style=for-the-badge" alt="ingdanielvaldez" /></a> </p>
 
-- 🔭 I’m currently working on [OmniSkill](https://omni-skill.com/)
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on [Extinguisher360]([https://rentaloinc.com/](https://extinguisher360.com/))
-
-- 🤝 I’m looking for help with [Security OmniSkill](https://security.omni-skill.com/)
 
 - 👨‍💻 All of my projects are available at [https://daniel-valdez.com](https://daniel-valdez.com)
 
